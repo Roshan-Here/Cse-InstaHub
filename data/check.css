@@ -20,6 +20,10 @@ Video {
     min-height: 100%;
   }
 
+.cuscenter{
+    padding-left: 50%;
+    padding-bottom: 5%;
+}
 .background-full{
     width: 100%;
     height: 100%;
